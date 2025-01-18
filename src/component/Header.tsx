@@ -10,7 +10,7 @@ function Header() {
                 <ul className="flex w-full justify-between items-center gap-4 font-semibold">
                     <li><a href="#">Home</a></li>
                     <li><a href="#">About</a></li>
-                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">Blog</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
             </nav>
