@@ -11,7 +11,7 @@ function Experience() {
         <div className="flex justify-evenly items-center gap-4 px-8 mt-10">
       {/* Designer Card */}
 
-      <div className="border border-black p-4">
+      <div className="border border-black p-6">
         <h2 className="text-[1.5rem] font-semibold">Designer</h2>
         <button className="mt-2 bg-blue-500 text-white py-1 px-3 rounded">2022 - Present</button>
         <p className="text-[1.1rem] font-light">Given let waters air sea had you'll, may seed abundantly fish. Were, you'll earth forth winged above brought. 
@@ -20,7 +20,7 @@ function Experience() {
 
       {/* Web Developer Card */}
 
-      <div className="border border-black p-4">
+      <div className="border border-black p-6">
         <h2 className="text-[1.5rem] font-semibold">Web Developer</h2>
         <button className="mt-2 bg-blue-500 text-white py-1 px-3 rounded">2022 - Present</button>
         <p className="text-[1.1rem] font-light">Given let waters air sea had you'll, may seed abundantly fish. Were, you'll earth forth winged above brought. 
@@ -28,7 +28,7 @@ function Experience() {
       </div>
 
       {/* Consultant Card */}
-      <div className="border border-black p-4">
+      <div className="border border-black p-6">
         <h2 className="text-[1.5rem] font-semibold">Consultant</h2>
         <button className="mt-2 bg-blue-500 text-white py-1 px-3 rounded">2022 - Present</button>
         <p className="text-[1.1rem] font-light">Given let waters air sea had you'll, may seed abundantly fish. Were, you'll earth forth winged above brought. 
